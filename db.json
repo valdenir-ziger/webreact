@@ -1,0 +1,36 @@
+{
+  "receitas": [
+    {
+      "ingredientes": "Gelo",
+      "nome": "Água",
+      "preparo": "Congelar",
+      "id": 1
+    },
+    {
+      "ingredientes": "Ovo Frito",
+      "nome": "Ovo, óleo e sal",
+      "preparo": "fritar",
+      "id": 2
+    },
+    {
+      "nome": "Bolo",
+      "ingredientes": "Leite, ovo e mistura pronta",
+      "preparo": "Misturar e assar",
+      "id": 3
+    }
+  ],
+  "usuarios": [
+    {
+      "nome": "Andre",
+      "login": "ortoncelli",
+      "senha": "1234",
+      "id": 1
+    },
+    {
+      "nome": "Administrador",
+      "login": "admin",
+      "senha": "4321",
+      "id": 2
+    }
+  ]
+}
